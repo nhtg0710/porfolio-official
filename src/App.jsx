@@ -6,6 +6,7 @@ import Work from "./components/Work";
 import Review from "./components/Review";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import WorkExperience from "./components/WorkExperience";
 
 import { ReactLenis } from "lenis/react";
 import gsap from "gsap";
@@ -22,8 +23,8 @@ const App = () => {
         scrollTrigger: {
           trigger: element,
           scrub: true,
-          start: "-200 bottom",
-          end: "bottom 80%",
+          start: "-200% 80%",
+          end: "400% 80%",
         },
         y: 0,
         opacity: 1,
@@ -40,6 +41,7 @@ const App = () => {
         <Hero />
         <About />
         <Skill />
+        <WorkExperience />
         <Work />
         {/* <Review /> */}
         <Contact />

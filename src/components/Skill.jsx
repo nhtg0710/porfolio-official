@@ -66,6 +66,11 @@ const skillItem = [
     label: "Docker",
     desc: "Containerisation",
   },
+  {
+    imgSrc: "images/graphql.svg",
+    label: "GraphQL",
+    desc: "Query Language",
+  },
 ];
 
 const Skill = () => {

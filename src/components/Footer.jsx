@@ -10,13 +10,14 @@ const sitemap = [
     href: "#about",
   },
   {
-    label: "Work",
-    href: "#work",
+    label: "Experience",
+    href: "#workExperience",
   },
   {
-    label: "Reviews",
-    href: "#reviews",
+    label: "Projects",
+    href: "#work",
   },
+
   {
     label: "Contact me",
     href: "#contact",

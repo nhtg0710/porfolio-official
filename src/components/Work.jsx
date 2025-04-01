@@ -9,11 +9,51 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
   {
+    imgSrc: "/images/melbourne_connect.jpeg",
+    title: "Melbourne Connect Event Scheduler",
+    tags: ["Development"],
+    projectLink:
+      "https://github.com/2024-SWN90017-18/MC-melbourneConnectScheduler",
+    desc: "An event scheduler for Melbourne Connect to streamline the process of booking and managing guest speaking events.",
+  },
+  {
     imgSrc: "/images/project-1.jpg",
-    title: "Full stack music app",
-    tags: ["API", "MVC", "Development"],
-    projectLink: "https://musify-5al0.onrender.com/",
-    desc: "A full stack music app",
+    title: "Participation Score Calculator",
+    tags: ["Development"],
+    projectLink: "https://github.com/nhtg0710/particpation-score-calculator",
+    desc: "An event scheduler for Melbourne Connect to streamline the process of booking and managing guest speaking events.",
+  },
+  {
+    imgSrc: "/images/project-1.jpg",
+    title: "Adversarial Image Detection",
+    tags: ["Development"],
+    projectLink:
+      "https://github.com/2024-SWN90017-18/MC-melbourneConnectScheduler",
+    desc: "An event scheduler for Melbourne Connect to streamline the process of booking and managing guest speaking events.",
+  },
+  {
+    imgSrc: "/images/project-1.jpg",
+    title: "Flappy Bird 3D",
+    tags: ["Development"],
+    projectLink:
+      "https://github.com/2024-SWN90017-18/MC-melbourneConnectScheduler",
+    desc: "An event scheduler for Melbourne Connect to streamline the process of booking and managing guest speaking events.",
+  },
+  {
+    imgSrc: "/images/project-1.jpg",
+    title: "F1 Mobile App",
+    tags: ["Development"],
+    projectLink:
+      "https://github.com/2024-SWN90017-18/MC-melbourneConnectScheduler",
+    desc: "An event scheduler for Melbourne Connect to streamline the process of booking and managing guest speaking events.",
+  },
+  {
+    imgSrc: "/images/project-1.jpg",
+    title: "Telegram Trading Bot",
+    tags: ["Development"],
+    projectLink:
+      "https://github.com/2024-SWN90017-18/MC-melbourneConnectScheduler",
+    desc: "An event scheduler for Melbourne Connect to streamline the process of booking and managing guest speaking events.",
   },
 ];
 

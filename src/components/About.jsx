@@ -1,7 +1,7 @@
 const aboutItems = [
   {
-    label: "Project done",
-    number: 10,
+    label: "Projects done",
+    number: "10",
   },
   {
     label: "Biggest client",
@@ -29,9 +29,6 @@ const About = () => {
                   <div className="flex items-center justify-center md:mb-2">
                     <span className="text-2xl font-bold md:text-4xl">
                       {number}
-                    </span>
-                    <span className="text-sky-400 font-semibold md:text-3xl">
-                      +
                     </span>
                   </div>
 
