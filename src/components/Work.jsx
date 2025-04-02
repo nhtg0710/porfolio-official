@@ -17,14 +17,14 @@ const works = [
     desc: "An event scheduler for Melbourne Connect to streamline the process of booking and managing guest speaking events.",
   },
   {
-    imgSrc: "/images/project-1.jpg",
+    imgSrc: "/images/react.svg",
     title: "Participation Score Calculator",
     tags: ["Development"],
     projectLink: "https://github.com/nhtg0710/particpation-score-calculator",
     desc: "An event scheduler for Melbourne Connect to streamline the process of booking and managing guest speaking events.",
   },
   {
-    imgSrc: "/images/project-1.jpg",
+    imgSrc: "/images/pytorch.svg",
     title: "Adversarial Image Detection",
     tags: ["Development"],
     projectLink:
@@ -32,29 +32,29 @@ const works = [
     desc: "An event scheduler for Melbourne Connect to streamline the process of booking and managing guest speaking events.",
   },
   {
-    imgSrc: "/images/project-1.jpg",
+    imgSrc: "/images/flappy_bird.png",
     title: "Flappy Bird 3D",
     tags: ["Development"],
     projectLink:
-      "https://github.com/2024-SWN90017-18/MC-melbourneConnectScheduler",
+      "https://www.youtube.com/watch?v=FtjqctPG9hg&ab_channel=GiangHo%C3%A0ng",
     desc: "An event scheduler for Melbourne Connect to streamline the process of booking and managing guest speaking events.",
   },
-  {
-    imgSrc: "/images/project-1.jpg",
-    title: "F1 Mobile App",
-    tags: ["Development"],
-    projectLink:
-      "https://github.com/2024-SWN90017-18/MC-melbourneConnectScheduler",
-    desc: "An event scheduler for Melbourne Connect to streamline the process of booking and managing guest speaking events.",
-  },
-  {
-    imgSrc: "/images/project-1.jpg",
-    title: "Telegram Trading Bot",
-    tags: ["Development"],
-    projectLink:
-      "https://github.com/2024-SWN90017-18/MC-melbourneConnectScheduler",
-    desc: "An event scheduler for Melbourne Connect to streamline the process of booking and managing guest speaking events.",
-  },
+  // {
+  //   imgSrc: "/images/project-1.jpg",
+  //   title: "F1 Mobile App",
+  //   tags: ["Development"],
+  //   projectLink:
+  //     "https://github.com/2024-SWN90017-18/MC-melbourneConnectScheduler",
+  //   desc: "An event scheduler for Melbourne Connect to streamline the process of booking and managing guest speaking events.",
+  // },
+  // {
+  //   imgSrc: "/images/project-1.jpg",
+  //   title: "Telegram Trading Bot",
+  //   tags: ["Development"],
+  //   projectLink:
+  //     "https://github.com/2024-SWN90017-18/MC-melbourneConnectScheduler",
+  //   desc: "An event scheduler for Melbourne Connect to streamline the process of booking and managing guest speaking events.",
+  // },
 ];
 
 const Work = () => {
