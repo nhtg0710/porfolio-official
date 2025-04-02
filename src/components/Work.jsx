@@ -11,33 +11,33 @@ const works = [
   {
     imgSrc: "/images/melbourne_connect.jpeg",
     title: "Melbourne Connect Event Scheduler",
-    tags: ["Development"],
+    tags: ["Web Application"],
     projectLink:
       "https://github.com/2024-SWN90017-18/MC-melbourneConnectScheduler",
-    desc: "An event scheduler for Melbourne Connect to streamline the process of booking and managing guest speaking events.",
+    desc: "An event scheduler for Melbourne Connect to streamline the process of booking and managing guest speaking events, using ReactJS and Node.js",
   },
   {
     imgSrc: "/images/react.svg",
     title: "Participation Score Calculator",
-    tags: ["Development"],
+    tags: ["Web Application"],
     projectLink: "https://github.com/nhtg0710/particpation-score-calculator",
-    desc: "An event scheduler for Melbourne Connect to streamline the process of booking and managing guest speaking events.",
+    desc: "This calculator provides valuable insights to subject coordinators to boost student engagement, using ReactJS and Spring Boot",
   },
   {
     imgSrc: "/images/pytorch.svg",
     title: "Adversarial Image Detection",
-    tags: ["Development"],
+    tags: ["Machine Learning"],
     projectLink:
       "https://github.com/2024-SWN90017-18/MC-melbourneConnectScheduler",
-    desc: "An event scheduler for Melbourne Connect to streamline the process of booking and managing guest speaking events.",
+    desc: "This model leverages deep-learning models to identify adversarially modified images",
   },
   {
     imgSrc: "/images/flappy_bird.png",
     title: "Flappy Bird 3D",
-    tags: ["Development"],
+    tags: ["Game Development"],
     projectLink:
       "https://www.youtube.com/watch?v=FtjqctPG9hg&ab_channel=GiangHo%C3%A0ng",
-    desc: "An event scheduler for Melbourne Connect to streamline the process of booking and managing guest speaking events.",
+    desc: "A 3D version of the classic Flappy Bird game, developed using Unity and C#.",
   },
   // {
   //   imgSrc: "/images/project-1.jpg",
