@@ -29,7 +29,7 @@ const Hero = () => {
             <ButtonPrimary
               label="Download CV"
               icon="download"
-              href="/CV/Zac_Hoang_CV_official.pdf"
+              href="/CV/Zac_Hoang_Resume.pdf"
             />
             <ButtonOutline
               label="Scroll down"
