@@ -23,7 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
-public/CV/*
 public/images/avatar-1.jpg
 public/images/headshot.jpg
 .qodo
